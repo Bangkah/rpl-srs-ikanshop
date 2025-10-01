@@ -1167,9 +1167,9 @@ Dokumen ini harus disetujui oleh stakeholder berikut sebelum development dimulai
 
 | Role | Nama | Signature | Tanggal |
 |------|------|-----------|---------|
-| **Product Owner** | _______________ | _______________ | __________ |
-| **Technical Lead** | _______________ | _______________ | __________ |
-| **UI/UX Designer** | _______________ | _______________ | __________ |
+| **Product Owner** | FOUR A TEAM | _______________ | __________ |
+| **Technical Lead** | KAPTEN AMMAR | _______________ | __________ |
+| **UI/UX Designer** | FOUR A TEAM | _______________ | __________ |
 | **QA Lead** | _______________ | _______________ | __________ |
 | **Business Stakeholder** | _______________ | _______________ | __________ |
 
