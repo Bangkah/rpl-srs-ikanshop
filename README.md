@@ -11,7 +11,7 @@
 
 | Versi | Tanggal | Deskripsi | Penulis |
 |-------|---------|-----------|---------|
-| 1.0 | 01/10/2025 | Dokumen awal SRS | Tim Pengembang |
+| 1.0 | 01/10/2025 | Dokumen awal SRS | Ultraman |
 
 ---
 
